@@ -1,0 +1,6 @@
+@gnyang.samples.swagger_HostAddress = http://localhost:5288
+
+GET {{gnyang.samples.swagger_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
